@@ -39,19 +39,21 @@ public class td {
 		// System.out.println(count+=count++);
 		// }
 
-		for (int i = 0; i < 3; i++) {
-			switch (i) {
-			case 0:
-				System.out.println("1");
-				break;
-			case 1:
-				System.out.println("2");
-				break;
-			case 2:
-				System.out.println("3");
-				break;
-			}
-		}
+//		for (int i = 0; i < 3; i++) {
+//			switch (i) {
+//			case 0:
+//				System.out.println("1");
+//				break;
+//			case 1:
+//				System.out.println("2");
+//				break;
+//			case 2:
+//				System.out.println("3");
+//				break;
+//			}
+//		}
+		td2 tt = new td2();
+		tt.tetGit();
 		// String a = "刘斯龙";
 		// String b = "abc";
 		// System.out.println("a.length:" + a.length() + "--b.length():"
